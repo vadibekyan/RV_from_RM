@@ -1,0 +1,599 @@
+{
+  "anchor_plus_subtract": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean"
+  ],
+  "anchor_plus_subtract__plus_Teff": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "Teff"
+  ],
+  "anchor_plus_subtract__plus_Logg": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "Logg"
+  ],
+  "anchor_plus_subtract__plus_Mass_t": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "Mass_t"
+  ],
+  "anchor_plus_subtract__plus_Radius_t": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "Radius_t"
+  ],
+  "anchor_plus_subtract__plus_all_stellar": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "Teff",
+    "Logg",
+    "Mass_t",
+    "Radius_t"
+  ],
+  "anchor_plus_subtract__plus_s_mw_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "s_mw_mean"
+  ],
+  "anchor_plus_subtract__plus_s_mw_std": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "s_mw_std"
+  ],
+  "anchor_plus_subtract__plus_ha_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "ha_mean"
+  ],
+  "anchor_plus_subtract__plus_ha_std": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "ha_std"
+  ],
+  "anchor_plus_subtract__plus_na_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "na_mean"
+  ],
+  "anchor_plus_subtract__plus_na_std": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "na_std"
+  ],
+  "anchor_plus_subtract__plus_ca_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "ca_mean"
+  ],
+  "anchor_plus_subtract__plus_ca_std": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "ca_std"
+  ],
+  "anchor_plus_subtract__plus_rhk_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "rhk_mean"
+  ],
+  "anchor_plus_subtract__plus_rhk_std": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "rhk_std"
+  ],
+  "anchor_plus_subtract__plus_all_activity_stats": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "s_mw_mean",
+    "s_mw_std",
+    "ha_mean",
+    "ha_std",
+    "na_mean",
+    "na_std",
+    "ca_mean",
+    "ca_std",
+    "rhk_mean",
+    "rhk_std"
+  ],
+  "anchor_plus_subtract__plus_s_mw_fractional_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "s_mw_fractional_mean"
+  ],
+  "anchor_plus_subtract__plus_ha_fractional_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "ha_fractional_mean"
+  ],
+  "anchor_plus_subtract__plus_na_fractional_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "na_fractional_mean"
+  ],
+  "anchor_plus_subtract__plus_ca_fractional_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "ca_fractional_mean"
+  ],
+  "anchor_plus_subtract__plus_rhk_fractional_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "rhk_fractional_mean"
+  ],
+  "anchor_plus_subtract__plus_all_activity_fractional": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "s_mw_fractional_mean",
+    "ha_fractional_mean",
+    "na_fractional_mean",
+    "ca_fractional_mean",
+    "rhk_fractional_mean"
+  ],
+  "anchor_plus_fractional": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean"
+  ],
+  "anchor_plus_fractional__plus_Teff": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "Teff"
+  ],
+  "anchor_plus_fractional__plus_Logg": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "Logg"
+  ],
+  "anchor_plus_fractional__plus_Mass_t": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "Mass_t"
+  ],
+  "anchor_plus_fractional__plus_Radius_t": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "Radius_t"
+  ],
+  "anchor_plus_fractional__plus_all_stellar": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "Teff",
+    "Logg",
+    "Mass_t",
+    "Radius_t"
+  ],
+  "anchor_plus_fractional__plus_s_mw_mean": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "s_mw_mean"
+  ],
+  "anchor_plus_fractional__plus_s_mw_std": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "s_mw_std"
+  ],
+  "anchor_plus_fractional__plus_ha_mean": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "ha_mean"
+  ],
+  "anchor_plus_fractional__plus_ha_std": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "ha_std"
+  ],
+  "anchor_plus_fractional__plus_na_mean": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "na_mean"
+  ],
+  "anchor_plus_fractional__plus_na_std": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "na_std"
+  ],
+  "anchor_plus_fractional__plus_ca_mean": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "ca_mean"
+  ],
+  "anchor_plus_fractional__plus_ca_std": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "ca_std"
+  ],
+  "anchor_plus_fractional__plus_rhk_mean": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "rhk_mean"
+  ],
+  "anchor_plus_fractional__plus_rhk_std": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "rhk_std"
+  ],
+  "anchor_plus_fractional__plus_all_activity_stats": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "s_mw_mean",
+    "s_mw_std",
+    "ha_mean",
+    "ha_std",
+    "na_mean",
+    "na_std",
+    "ca_mean",
+    "ca_std",
+    "rhk_mean",
+    "rhk_std"
+  ],
+  "anchor_plus_fractional__plus_s_mw_fractional_mean": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "s_mw_fractional_mean"
+  ],
+  "anchor_plus_fractional__plus_ha_fractional_mean": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "ha_fractional_mean"
+  ],
+  "anchor_plus_fractional__plus_na_fractional_mean": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "na_fractional_mean"
+  ],
+  "anchor_plus_fractional__plus_ca_fractional_mean": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "ca_fractional_mean"
+  ],
+  "anchor_plus_fractional__plus_rhk_fractional_mean": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "rhk_fractional_mean"
+  ],
+  "anchor_plus_fractional__plus_all_activity_fractional": [
+    "vrad_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "s_mw_fractional_mean",
+    "ha_fractional_mean",
+    "na_fractional_mean",
+    "ca_fractional_mean",
+    "rhk_fractional_mean"
+  ],
+  "anchor_plus_both_profile": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean"
+  ],
+  "anchor_plus_both_profile__plus_Teff": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "Teff"
+  ],
+  "anchor_plus_both_profile__plus_Logg": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "Logg"
+  ],
+  "anchor_plus_both_profile__plus_Mass_t": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "Mass_t"
+  ],
+  "anchor_plus_both_profile__plus_Radius_t": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "Radius_t"
+  ],
+  "anchor_plus_both_profile__plus_all_stellar": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "Teff",
+    "Logg",
+    "Mass_t",
+    "Radius_t"
+  ],
+  "anchor_plus_both_profile__plus_s_mw_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "s_mw_mean"
+  ],
+  "anchor_plus_both_profile__plus_s_mw_std": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "s_mw_std"
+  ],
+  "anchor_plus_both_profile__plus_ha_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "ha_mean"
+  ],
+  "anchor_plus_both_profile__plus_ha_std": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "ha_std"
+  ],
+  "anchor_plus_both_profile__plus_na_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "na_mean"
+  ],
+  "anchor_plus_both_profile__plus_na_std": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "na_std"
+  ],
+  "anchor_plus_both_profile__plus_ca_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "ca_mean"
+  ],
+  "anchor_plus_both_profile__plus_ca_std": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "ca_std"
+  ],
+  "anchor_plus_both_profile__plus_rhk_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "rhk_mean"
+  ],
+  "anchor_plus_both_profile__plus_rhk_std": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "rhk_std"
+  ],
+  "anchor_plus_both_profile__plus_all_activity_stats": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "s_mw_mean",
+    "s_mw_std",
+    "ha_mean",
+    "ha_std",
+    "na_mean",
+    "na_std",
+    "ca_mean",
+    "ca_std",
+    "rhk_mean",
+    "rhk_std"
+  ],
+  "anchor_plus_both_profile__plus_s_mw_fractional_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "s_mw_fractional_mean"
+  ],
+  "anchor_plus_both_profile__plus_ha_fractional_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "ha_fractional_mean"
+  ],
+  "anchor_plus_both_profile__plus_na_fractional_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "na_fractional_mean"
+  ],
+  "anchor_plus_both_profile__plus_ca_fractional_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "ca_fractional_mean"
+  ],
+  "anchor_plus_both_profile__plus_rhk_fractional_mean": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "rhk_fractional_mean"
+  ],
+  "anchor_plus_both_profile__plus_all_activity_fractional": [
+    "vrad_subtract_mean",
+    "fwhm_subtract_mean",
+    "bis_span_subtract_mean",
+    "contrast_subtract_mean",
+    "fwhm_fractional_mean",
+    "bis_span_fractional_mean",
+    "contrast_fractional_mean",
+    "s_mw_fractional_mean",
+    "ha_fractional_mean",
+    "na_fractional_mean",
+    "ca_fractional_mean",
+    "rhk_fractional_mean"
+  ]
+}
