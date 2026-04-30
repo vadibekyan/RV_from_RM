@@ -20,3 +20,7 @@ WASP130_esp19_1.rdb,WASP130_esp19_1_linear_corrected.csv,edge_points,,,10,8,5973
 WASP131_esp19_1.rdb,WASP131_esp19_1_linear_corrected.csv,edge_points,,,10,8,59282.68071,-19716.32813,-30.67568413,18
 WASP131_esp19_2.rdb,WASP131_esp19_2_linear_corrected.csv,edge_points,,,10,8,59298.6178,-19715.47962,-39.44632218,18
 WASP166_esp19_1.rdb,WASP166_esp19_1_linear_corrected.csv,edge_points,,,10,8,59215.6324,23495.32685,-2.79095771,18
+HD189733_harps03_3.rdb,HD189733_harps03_3_linear_corrected.csv,edge_points,,,3,3,53986.59485176997,-2251.7124764955825,-571.9782317076321,6
+HD189733_harps03_4.rdb,HD189733_harps03_4_linear_corrected.csv,edge_points,,,0,10,54301.72986160009,-2299.1688537572636,-516.9056490354467,10
+HD189733_harps03_5.rdb,HD189733_harps03_5_linear_corrected.csv,edge_points,,,7,10,54341.61182234995,-2259.944141906589,-575.7860084737175,17
+WASP54_harps03_1.rdb,WASP54_harps03_1_linear_corrected.csv,edge_points,,,4,6,56057.738045959966,-3256.5898447887143,-124.03195723909509,10
